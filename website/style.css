@@ -1,0 +1,40 @@
+p.italic {
+   font-style: italic;
+}
+p.light {   
+   font-weight: lighter;
+}
+p.bold {   
+   font-weight: bold;
+}
+p.bolder {
+   font-weight: bolder;
+}
+
+p.green {
+   color: green;
+}
+p.red {
+   color: red;
+}
+p.blue {
+   color: blue;
+}
+
+p.small_font{
+	font-size:small;
+}
+
+p.left {
+   text-align: left;
+}
+p.right {
+   text-align: right;
+}
+p.center {
+   text-align: center;
+}
+
+
+
+
